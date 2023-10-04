@@ -1,6 +1,3 @@
-# Johan Arbey Mejía Vargas cc: 1152195956
-# María del mar Ipia Guzmán cc: 1214726595
-
 import os
 
 from io import open
